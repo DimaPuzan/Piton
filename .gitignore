@@ -1,10 +1,10 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
+_pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
+.idea/
 
 # Distribution / packaging
 .Python
@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
